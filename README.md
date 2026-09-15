@@ -10,7 +10,7 @@ The project demonstrates a real-world approach to building a SaaS-style producti
 
 <img src="https://i.postimg.cc/nrf3qLDt/Screenshot-2026-09-15-151211.png" />
 
-<div style="margin: 30px 0;"></div>
+<div style="margin: 30px 0; gap=20px"></div>
 
 <img src="https://i.postimg.cc/zvYxTfgr/Screenshot-2026-09-15-151316.png" />
 
