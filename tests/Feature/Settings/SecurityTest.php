@@ -85,7 +85,7 @@ class SecurityTest extends TestCase
         $response = $this
             ->actingAs($user)
             ->from(route('security.edit'))
-            ->put(route('user-password.update'), [
+            ->put(route('settings.password.update'), [
                 'current_password' => 'password',
                 'password' => 'new-password',
                 'password_confirmation' => 'new-password',
@@ -105,7 +105,7 @@ class SecurityTest extends TestCase
         $response = $this
             ->actingAs($user)
             ->from(route('security.edit'))
-            ->put(route('user-password.update'), [
+            ->put(route('settings.password.update'), [
                 'current_password' => 'wrong-password',
                 'password' => 'new-password',
                 'password_confirmation' => 'new-password',
