@@ -9,7 +9,7 @@ The project demonstrates a real-world approach to building a SaaS-style producti
 <br>
 <img src="https://i.postimg.cc/nrf3qLDt/Screenshot-2026-09-15-151211.png" height="600" />
 <br>
-<img src="https://i.postimg.cc/zvYxTfgr/Screenshot-2026-09-15-151316.png" height="600" />
+<!-- <img src="https://i.postimg.cc/zvYxTfgr/Screenshot-2026-09-15-151316.png" height="600" /> -->
 
 ## Overview
 
