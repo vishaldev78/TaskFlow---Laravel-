@@ -5,15 +5,11 @@ TaskFlow is a full-stack task management application built with Laravel, Inertia
 The project demonstrates a real-world approach to building a SaaS-style productivity app: user authentication, task management, role-based admin access, security features, and dashboard analytics.
 
 
-<img src="https://i.postimg.cc/1X1vDzNT/Screenshot-2026-09-15-151109.png" width="100%" height="600" />
-
-<br><br>
-
-<img src="https://i.postimg.cc/nrf3qLDt/Screenshot-2026-09-15-151211.png" width="100%" height="600" />
-
-<br><br>
-
-<img src="https://i.postimg.cc/zvYxTfgr/Screenshot-2026-09-15-151316.png" width="100%" height="600" />
+<img src="https://i.postimg.cc/1X1vDzNT/Screenshot-2026-09-15-151109.png" height="600" />
+<br>
+<img src="https://i.postimg.cc/nrf3qLDt/Screenshot-2026-09-15-151211.png" height="600" />
+<br>
+<img src="https://i.postimg.cc/zvYxTfgr/Screenshot-2026-09-15-151316.png" height="600" />
 
 ## Overview
 
